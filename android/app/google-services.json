@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "103706007332",
+    "firebase_url": "https://planty-app-2024-default-rtdb.firebaseio.com",
+    "project_id": "planty-app-2024",
+    "storage_bucket": "planty-app-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103706007332:android:45d0d96d02cf8bc36245b1",
+        "android_client_info": {
+          "package_name": "com.devmuuguu.planty_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8V9eBtinDkqKYToh-r0B3BOlGaSF4X88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
